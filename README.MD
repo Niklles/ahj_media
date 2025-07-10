@@ -2,4 +2,4 @@
 
 # Домашнее задание к занятию "10. Geolocation, Notification, Media"
 
-[Посмотреть демо на GitHub Pages](https://Niklles.github.io/ahj-media/)
+[Посмотреть демо на GitHub Pages](https://Niklles.github.io/ahj_media/)
